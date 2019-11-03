@@ -124,7 +124,7 @@ ul {
 
 .section-title h2 {
 	text-transform: uppercase;
-	color: #fff;
+	color: #ffffff;
 	font-weight: 400;
 }
 
@@ -132,7 +132,7 @@ ul {
 	background: #16b6b6;
 	padding: 0 3px 5px;
 	display: inline-block;
-	color: #fff;
+	color: #ffffff;
 }
 
 .section-title:after {
@@ -544,7 +544,7 @@ ul {
 	background-size: contain;
 	bottom: 0;
 	height: 78%;
-	left: 200px;
+	left: 10%;
 }
 
 .testimonial span {
